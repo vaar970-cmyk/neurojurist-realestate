@@ -1,0 +1,15 @@
+# Секреты
+.env
+*.key
+
+# Артефакты индекса и кэша
+faiss_index/
+*.faiss
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Служебное
+extract_log.txt

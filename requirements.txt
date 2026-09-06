@@ -1,0 +1,12 @@
+# Прототип нейроюриста — зависимости (Colab / локальный запуск)
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+openai
+tiktoken
+
+# Только для пересборки текстов базы знаний из первоисточников:
+pypdf
+python-docx
