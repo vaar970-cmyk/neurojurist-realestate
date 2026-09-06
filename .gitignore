@@ -4,6 +4,9 @@
 
 # Артефакты индекса и кэша
 faiss_index/
+faiss_index_v2/
+faiss_all.*
+faiss_laws.*
 *.faiss
 
 # Python
